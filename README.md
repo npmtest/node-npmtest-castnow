@@ -1,6 +1,6 @@
 # npmtest-castnow
 
-#### test coverage for  [castnow (v0.4.18)](https://github.com/xat/castnow#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-castnow.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-castnow) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-castnow.svg)](https://travis-ci.org/npmtest/node-npmtest-castnow)
+#### basic test coverage for  [castnow (v0.4.18)](https://github.com/xat/castnow#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-castnow.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-castnow) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-castnow.svg)](https://travis-ci.org/npmtest/node-npmtest-castnow)
 
 #### commandline chromecast player
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-castnow/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-castnow/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-castnow/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-castnow/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-castnow/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-castnow/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-castnow/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-castnow/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-castnow/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-castnow/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-castnow/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-castnow/build/coverage.html/index.html)
 
